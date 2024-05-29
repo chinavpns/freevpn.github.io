@@ -471,7 +471,7 @@ NordVPN提供的30天无风险退款保证，允许用户在一个月内免费�
 
 总体来说，NordVPN以其强大的防火长城突破能力、广泛的服务器网络和顶级的安全性，成为2024年在中国使用的最佳免费VPN之一。通过其30天的无风险退款保证，用户可以在不承担任何风险的情况下，体验这款高效的VPN服务。在寻找免费VPN加速器时，NordVPN是一个值得考虑的优质选择。
 
-**<p align="center"><a href=https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902 >立即开始尝试NordVPN（30天免费）</a></p>**
+<p align="center"><a href=https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902>立即开始尝试NordVPN（30天免费）</a></p>
 
 ****
 
