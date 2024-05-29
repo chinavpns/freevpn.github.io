@@ -696,7 +696,6 @@ OK VPN的客户支持非常差，用户在遇到问题时几乎无法获得任�
 
 * <a href=https://bit.ly/ep-vpn>ExpressVPN</a> - 翻墙稳定、速度快，30天免费试用
 * <a href=https://bit.ly/pe-vpn>PureVPN</a> - 老牌VPN，安全好用，31天免费试用
-* <a href=https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902 rel="nofollow">NordVPN</a> - 功能强大，安全性高，30天免费试用
 * <a href=https://bit.ly/surf-vpn>Surfshark</a> - 不限制设备数，30天免费试用
 
 如果你长期需要使用VPN，最好选择一款付费VPN。付费VPN不仅提供更好的安全性和隐私保护，还能保证稳定快速的连接，支持多设备使用，并提供专业的客户服务，确保你在使用过程中没有后顾之忧。
