@@ -714,4 +714,6 @@ OK VPN的客户支持非常差，用户在遇到问题时几乎无法获得任�
 
 * <a href=https://github.com/chinavpns/iosvpn.github.io>苹果翻墙</a>和<a href=https://github.com/chinavpns/iosvpn.github.io>苹果VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
 
+* <a href=https://github.com/chinavpns/cheapvpn.github.io>便宜VPN推荐</a>：2024年中国好用的便宜VPN推荐！本文会为大家推荐几款中国便宜好用的VPN软件，它们在安全性、连接速度、翻墙稳定性、兼容性、客户支持等方面表现优异，可以帮助你在中国自由上网。
+
 * <a href=https://chinavpns.gitbook.io/chinavpns>最好用的VPN排行</a>：本文为大家推荐2024年最好用的中国VPN，帮助用户找到适合自己的翻墙工具，确保在网络严控环境下依然能够自由、安全地访问全球互联网。
