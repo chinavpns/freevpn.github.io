@@ -1,4 +1,4 @@
-# <p align="center">免费VPN推荐：2024年能在中国使用的免费VPN加速器盘点（含永久免费VPN）</p>
+# <p align="center">2024年中国翻墙最佳免费VPN推荐（含最新国外永久免费VPN）</p>
 
 <p align="center">最近更新于：2024年7月19日</p>
 
