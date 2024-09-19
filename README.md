@@ -1,4 +1,4 @@
-# <p align="center">2024年最佳中国大陆免费VPN推荐（含国外永久免费VPN）</p>
+# <p align="center">2024年中国大陆免费VPN推荐（含最新国外永久免费VPN）</p>
 
 <p align="center">最近更新于：2024年7月19日</p>
 
