@@ -635,7 +635,7 @@ VPN的核心价值在于保护用户隐私和数据安全。然而，免费VPN�
 * NordVPN  Windows APP免费下载地址：https://nordvpn.com/zh/download/windows/
 * Surfshark  Windows APP免费下载地址：https://surfshark.com/zh/download/windows
 
-完成下载后，双击安装文件，按照提示进行安装。安装完成后，启动VPN客户端，选择服务器并连接即可使用。如果你想了解更多信息，请点击：电脑VPN。
+完成下载后，双击安装文件，按照提示进行安装。安装完成后，启动VPN客户端，选择服务器并连接即可使用。如果你想了解更多信息，请点击：<a href="https://github.com/chinavpns/pcvpn.github.io">电脑VPN</a>。
 
 ### 二、免费VPN MacOS电脑版下载方式
 
@@ -646,19 +646,19 @@ VPN的核心价值在于保护用户隐私和数据安全。然而，免费VPN�
 * NordVPN  MacOS APP免费下载地址：https://nordvpn.com/zh/download/mac/
 * Surfshark  MacOS APP免费下载地址：https://surfshark.com/zh/download/macos
 
-下载完成后，打开安装包，按照提示安装VPN软件。安装过程通常很简便，完成后，用户可以直接启动VPN，输入相关登录信息并开始使用。如果你想了解更多信息，请点击：PC端VPN。
+下载完成后，打开安装包，按照提示安装VPN软件。安装过程通常很简便，完成后，用户可以直接启动VPN，输入相关登录信息并开始使用。如果你想了解更多信息，请点击：<a href="https://github.com/chinavpns/pcvpn.github.io">PC端VPN</a>。
 
 ### 三、免费VPN安卓版下载方式
 
 安卓用户可以通过Google Play商店下载官方的VPN应用。打开Google Play商店，输入你想下载的免费VPN名称，并选择下载量大且评价较高的应用。下载并安装完成后，打开应用，创建账户或直接登录，选择服务器后即可开始使用。
 
-需要注意的是，某些VPN在中国大陆的Google Play商店可能无法找到，这时你可以通过第三方应用商店或借助其他工具下载。不过，务必确保下载来源可靠，以防设备遭受恶意软件的入侵。如果你想了解更多信息，请点击：安卓VPN。
+需要注意的是，某些VPN在中国大陆的Google Play商店可能无法找到，这时你可以通过第三方应用商店或借助其他工具下载。不过，务必确保下载来源可靠，以防设备遭受恶意软件的入侵。如果你想了解更多信息，请点击：<a href="https://github.com/chinavpns/androidvpn.github.io">安卓VPN</a>。
 
 ### 四、免费VPN iOS版下载方式
 
 iOS用户则可以通过App Store进行VPN下载。打开App Store，在搜索栏中输入目标VPN的名称，选择合适的应用进行下载。和安卓一样，确保选择那些来自信誉良好开发商、下载量高的VPN应用，以减少安全隐患。安装完成后，按照应用提示进行账户创建或登录，选择服务器后即可连接。
 
-需要特别注意的是，中国区App Store已下架所有跟翻墙相关的软件，因此中国大陆用户需要先获取一个非中国区的Apple ID。如果你不知道如何获取，请查看：苹果VPN。
+需要特别注意的是，中国区App Store已下架所有跟翻墙相关的软件，因此中国大陆用户需要先获取一个非中国区的Apple ID。如果你不知道如何获取，请查看：<a href="https://github.com/chinavpns/iosvpn.github.io">苹果VPN</a>。
 
 ## 免费VPN可以兼容我的设备吗？
 
