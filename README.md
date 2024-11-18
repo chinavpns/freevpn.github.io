@@ -1,6 +1,6 @@
 # <p align="center">2024年中国大陆免费VPN推荐（含最新国外永久免费VPN）</p>
 
-<p align="center">最近更新于：2024年9月20日</p>
+<p align="center">最近更新于：2024年11月18日</p>
 
 ![中国大陆免费VPN推荐和国外永久免费VPN推荐](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/refs/heads/main/image/%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9VPN%E5%92%8C%E5%9B%BD%E5%A4%96%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9VPN%E6%8E%A8%E8%8D%90.png)
 
@@ -103,7 +103,7 @@ ExpressVPN还拥有智能的网络管理功能，如Split Tunneling（分离隧�
 
 #### ExpressVPN不足：
 
-* 付费账号略微偏贵，每月6.67美元，但依然物超所值。
+* 付费账号略微偏贵，每月4.99美元，但依然物超所值。
 * 只能免费使用30天，但你可以重新注册一个新账号，继续免费使用。
 
 #### ExpressVPN免费用量：
@@ -159,46 +159,7 @@ PureVPN还专门优化了流媒体服务器，让用户能够轻松解锁Netflix
 
 ****
 
-### 3，<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN：功能最强大且最安全的大陆免费VPN，免费使用30天</a>
-
-![NordVPN Banner：功能最强大且最安全的大陆免费VPN，免费使用30天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/NordVPN-FreeVPN.jpg)
-
-NordVPN作为全球知名的VPN服务提供商，以其卓越的安全性和丰富的功能，成为2024年最佳的中国大陆免费VPN之一。尽管它是一款付费VPN，但同样提供31天无风险退款保证，这意味着用户可以在不承担任何风险的情况下免费体验所有功能。
-
-在安全性方面，NordVPN采用军用级AES-256加密技术，结合SHA-512身份验证，为用户提供最高级别的安全保障。其独特的“双重VPN”功能允许用户的流量通过两个服务器进行加密，极大提高了数据传输的安全性。而对于那些寻求更高匿名性的人群，NordVPN的“Onion Over VPN”功能则是完美的选择，它将VPN与Tor网络结合，让用户在中国复杂的网络环境下也能确保绝对隐私。此外，NordVPN所有的服务器均基于RAM，无硬盘存储，这意味着每次重启后服务器不会保存任何数据，确保用户的在线活动无法被记录。这一无日志政策还通过了第三方审计，保证其透明性和可靠性。
-
-NordVPN拥有全球5700多台服务器，覆盖60个国家，提供高速且稳定的连接。特别是针对中国用户，它专门优化了P2P和流媒体服务器，确保在观看视频、下载文件等高流量活动时也能享受到流畅的网络体验。其最新的“NordLynx”协议基于WireGuard开发，进一步提升了连接速度，适合需要观看4K视频和低延迟网络的用户使用。
-
-除了卓越的安全性和速度，NordVPN还支持多达6台设备同时连接，涵盖Windows、Mac、iOS、Android和Linux等多个平台，兼容性极高，方便用户在多个设备上无缝切换使用。同时，NordVPN的“分离隧道”和“自动连接”功能让用户可以根据自己的需求灵活选择哪些应用通过VPN连接，哪些应用走本地网络流量，确保使用体验更加个性化。
-
-#### NordVPN优势：
-
-* 独有NordLynx协议，基于WireGuard协议开发，提升了速度和安全性。
-* 提供“双重VPN”功能，大幅提高隐私保护。
-* 使用基于RAM的服务器，确保数据无法保存。
-* 提供无日志政策，并通过第三方审计机构PwC进行审计。
-* 独有CyberSec功能，可自动屏蔽恶意软件和广告。
-* 独有Onion Over VPN功能，提供额外的匿名性。
-* 在全球60个国家部署了5700多台服务器。
-* 支持多达6台设备同时连接，无需额外购买多设备套餐。
-* 提供24小时在线客服和30天退款保证。
-
-#### NordVPN不足：
-
-* 翻墙稳定性和连接速度均不如ExpressVPN和PureVPN。
-* 在中国翻墙有时需要进行手动配置。
-
-#### NordVPN免费用量：
-
-* 可免费使用30天，且无流量和带宽限制。
-
-总体来说，NordVPN凭借其丰富的功能、强大的安全保护、全球高速服务器网络和为期30天的无理由退款保证，成为最佳中国大陆免费VPN之一。
-
-**<p align="center"><a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">立即开始尝试NordVPN（30天免费）</a></p>**
-
-****
-
-### 4，<a href="https://wallvpn.com/go/surfsharkvpn/">Surfshark：唯一不限制设备数的大陆免费VPN，免费使用30天</a>
+### 3，<a href="https://wallvpn.com/go/surfsharkvpn/">Surfshark：唯一不限制设备数的大陆免费VPN，免费使用30天</a>
 
 ![Surfshark Banner：唯一不限制设备数的大陆免费VPN，免费使用30天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/Surfshark-FreeVPN.jpg)
 
@@ -236,6 +197,45 @@ Surfshark对流媒体的支持同样出色，其特别优化的服务器可以�
 总的来说，Surfshark凭借其无限设备连接、强大的隐私保护和庞大的服务器网络，成为2024年最佳中国大陆免费VPN之一。再加上30天无风险退款保证，用户可以在不承担任何风险的情况下免费体验Surfshark的所有功能，无论是家庭使用还是个人多设备管理，Surfshark都能满足你的所有需求。
 
 **<p align="center"><a href="https://wallvpn.com/go/surfsharkvpn/">立即开始尝试Surfshark（30天免费）</a></p>**
+
+****
+
+### 4，<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN：功能最强大且最安全的大陆免费VPN，免费使用30天</a>
+
+![NordVPN Banner：功能最强大且最安全的大陆免费VPN，免费使用30天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/NordVPN-FreeVPN.jpg)
+
+NordVPN作为全球知名的VPN服务提供商，以其卓越的安全性和丰富的功能，成为2024年最佳的中国大陆免费VPN之一。尽管它是一款付费VPN，但同样提供31天无风险退款保证，这意味着用户可以在不承担任何风险的情况下免费体验所有功能。
+
+在安全性方面，NordVPN采用军用级AES-256加密技术，结合SHA-512身份验证，为用户提供最高级别的安全保障。其独特的“双重VPN”功能允许用户的流量通过两个服务器进行加密，极大提高了数据传输的安全性。而对于那些寻求更高匿名性的人群，NordVPN的“Onion Over VPN”功能则是完美的选择，它将VPN与Tor网络结合，让用户在中国复杂的网络环境下也能确保绝对隐私。此外，NordVPN所有的服务器均基于RAM，无硬盘存储，这意味着每次重启后服务器不会保存任何数据，确保用户的在线活动无法被记录。这一无日志政策还通过了第三方审计，保证其透明性和可靠性。
+
+NordVPN拥有全球5700多台服务器，覆盖60个国家，提供高速且稳定的连接。特别是针对中国用户，它专门优化了P2P和流媒体服务器，确保在观看视频、下载文件等高流量活动时也能享受到流畅的网络体验。其最新的“NordLynx”协议基于WireGuard开发，进一步提升了连接速度，适合需要观看4K视频和低延迟网络的用户使用。
+
+除了卓越的安全性和速度，NordVPN还支持多达6台设备同时连接，涵盖Windows、Mac、iOS、Android和Linux等多个平台，兼容性极高，方便用户在多个设备上无缝切换使用。同时，NordVPN的“分离隧道”和“自动连接”功能让用户可以根据自己的需求灵活选择哪些应用通过VPN连接，哪些应用走本地网络流量，确保使用体验更加个性化。
+
+#### NordVPN优势：
+
+* 独有NordLynx协议，基于WireGuard协议开发，提升了速度和安全性。
+* 提供“双重VPN”功能，大幅提高隐私保护。
+* 使用基于RAM的服务器，确保数据无法保存。
+* 提供无日志政策，并通过第三方审计机构PwC进行审计。
+* 独有CyberSec功能，可自动屏蔽恶意软件和广告。
+* 独有Onion Over VPN功能，提供额外的匿名性。
+* 在全球60个国家部署了5700多台服务器。
+* 支持多达6台设备同时连接，无需额外购买多设备套餐。
+* 提供24小时在线客服和30天退款保证。
+
+#### NordVPN不足：
+
+* 翻墙稳定性和连接速度均不如ExpressVPN和PureVPN。
+* 在中国翻墙有时需要进行手动配置。
+
+#### NordVPN免费用量：
+
+* 可免费使用30天，且无流量和带宽限制。
+
+总体来说，NordVPN凭借其丰富的功能、强大的安全保护、全球高速服务器网络和为期30天的无理由退款保证，成为最佳中国大陆免费VPN之一。
+
+**<p align="center"><a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">立即开始尝试NordVPN（30天免费）</a></p>**
 
 **小结**：近年来，由于GFW的不断升级，能够在中国大陆使用的<a href="https://chinavpns.github.io/">翻墙软件</a>已所剩无几，而真正安全又好用的就更稀缺了。以上推荐的四款<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，不仅可以在中国大陆正常使用，而且在安全性、解锁地域限制、兼容性、连接速度和客户支持等方面也表现出色。最重要的是，它们都支持30天退款保证，大家可以利用这一政策免费试用30天。
 
