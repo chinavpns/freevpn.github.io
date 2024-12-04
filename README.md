@@ -1,6 +1,6 @@
 # <p align="center">2024年中国大陆免费VPN推荐（含最新国外永久免费VPN）</p>
 
-<p align="center">最近更新于：2024年11月18日</p>
+<p align="center">最近更新于：2024年12月4日</p>
 
 ![中国大陆免费VPN推荐和国外永久免费VPN推荐](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/refs/heads/main/image/%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9VPN%E5%92%8C%E5%9B%BD%E5%A4%96%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9VPN%E6%8E%A8%E8%8D%90.png)
 
