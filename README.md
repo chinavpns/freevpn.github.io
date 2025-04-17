@@ -255,7 +255,7 @@ NordVPN在全球拥有5700多台服务器，遍布60个国家，提供高速稳�
 
 **<p align="center"><a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">立即开始尝试NordVPN（30天免费）</a></p>**
 
-**小结**：近年来，由于GFW的不断升级，能够在中国大陆使用的<a href="https://chinavpns.github.io/">翻墙软件</a>已所剩无几，而真正安全又好用的就更稀缺了。以上推荐的四款<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，不仅可以在中国大陆正常使用，而且在安全性、解锁地域限制、兼容性、连接速度和客户支持等方面也表现出色。最重要的是，它们都支持30天退款保证，大家可以利用这一政策免费试用30天。
+**小结**：近年来，由于GFW的不断升级，能够在中国大陆使用的<a href="https://chinavpns.github.io/">翻墙VPN</a>已所剩无几，而真正安全又好用的就更稀缺了。以上推荐的五款<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，不仅可以在中国大陆正常使用，而且在安全性、解锁地域限制、兼容性、连接速度和客户支持等方面也表现出色。最重要的是，它们都支持30天退款保证，大家可以利用这一政策免费试用30天。
 
 ****
 
