@@ -104,7 +104,7 @@ ExpressVPN还拥有智能的网络管理功能，如Split Tunneling（分离隧�
 
 ****
 
-### 大陆免费VPN备选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，支持支付宝付款，30天免费试用</a>
+### 大陆免费VPN备选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 最老牌的VPN，支持支付宝付款，30天免费试用</a>
 
 ![大陆免费VPN备选：StrongVPN - 老牌VPN，支持支付宝付款，30天免费试用](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/refs/heads/main/image/StrongVPN-FreeVPN.png)
 
@@ -118,7 +118,7 @@ StrongVPN在全球30个国家部署了950多台高性能服务器，可以解锁
 
 #### StrongVPN优势：
 
-* 翻墙比较稳定，连接速度较快
+* 翻墙比较稳定，连接速度较快。
 * 在30个国家部署了950多台服务器。
 * 轻松解锁Netflix、ChatGPT、Youtube等网站。
 * 支持12台设备同时登录使用。
@@ -128,7 +128,7 @@ StrongVPN在全球30个国家部署了950多台高性能服务器，可以解锁
 
 #### StrongVPN不足：
 
-* 翻墙稳定性和连接速度略逊色于ExpressVPN
+* 翻墙稳定性和连接速度略逊色于ExpressVPN。
 * 只能免费使用30天，但你可以重新注册一个新账号，继续免费使用。
 
 记住，要实现完全免费使用StrongVPN 30天，关键是在退款期限到期前联系客服申请全额退款。这样你就能免费享受到这款专业级VPN的所有高级功能，体验真正的网络自由。
@@ -137,9 +137,9 @@ StrongVPN在全球30个国家部署了950多台高性能服务器，可以解锁
 
 ****
 
-### 2，<a href="https://wallvpn.com/go/purevpn/">PureVPN：最老牌的大陆免费VPN，免费使用31天</a>
+### 大陆免费VPN备选：<a href="https://wallvpn.com/go/purevpn/">PureVPN - 老牌VPN，安全且好用，免费使用31天</a>
 
-![PureVPN Banner：最老牌的大陆免费VPN，免费使用31天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/PureVPN-FreeVPN.jpg)
+![大陆免费VPN备选：PureVPN - 老牌VPN，安全且好用，免费使用31天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/PureVPN-FreeVPN.jpg)
 
 PureVPN成立于2007年，经过十多年的发展，已成为市场上最老牌的VPN服务之一。对于那些既追求翻墙稳定性，又注重安全性、使用便捷性和快速连接的用户来说，PureVPN提供了全面的解决方案，满足用户多方面的需求。
 
