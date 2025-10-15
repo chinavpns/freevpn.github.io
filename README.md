@@ -1,6 +1,6 @@
 # 2025年免费VPN指南：中国大陆免费VPN和国外永久免费VPN推荐！免费的VPN靠什么盈利？免费VPN好用吗？
 
-<p align="center">最近更新于：2025年9月18日</p>
+<p align="center">最近更新于：2025年10月15日</p>
 
 ![2025年免费VPN指南：中国大陆免费VPN和国外永久免费VPN推荐！免费的VPN靠什么盈利？免费VPN好用吗？](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/refs/heads/main/image/%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9VPN%E5%92%8C%E5%9B%BD%E5%A4%96%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9VPN%E6%8E%A8%E8%8D%90.png)
 
